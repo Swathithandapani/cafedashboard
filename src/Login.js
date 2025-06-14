@@ -145,7 +145,7 @@ const styles = {
   },
 };
 
-// Mobile responsive tweaks
+
 const responsive = window.innerWidth < 480 ? {
   form: {
     width: '95%',
