@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cafedashboard/static/css/main.e6c13ad2.css",
+    "main.js": "/cafedashboard/static/js/main.1705a02f.js",
+    "static/js/453.cd016445.chunk.js": "/cafedashboard/static/js/453.cd016445.chunk.js",
+    "index.html": "/cafedashboard/index.html",
+    "main.e6c13ad2.css.map": "/cafedashboard/static/css/main.e6c13ad2.css.map",
+    "main.1705a02f.js.map": "/cafedashboard/static/js/main.1705a02f.js.map",
+    "453.cd016445.chunk.js.map": "/cafedashboard/static/js/453.cd016445.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1705a02f.js"
+  ]
+}
